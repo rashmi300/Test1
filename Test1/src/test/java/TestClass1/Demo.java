@@ -50,7 +50,7 @@ public class Demo {
 		}
 		@AfterSuite
 		public void aeforeSuite() {
-			System.out.println("After suite");
+			System.out.println("After suite abc");
 		}
 			
 }
