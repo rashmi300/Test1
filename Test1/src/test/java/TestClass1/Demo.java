@@ -33,7 +33,7 @@ public class Demo {
 			System.out.println("Test3");
 		}
 		public void test2() {
-			System.out.println("Test12");
+			System.out.println("Test12234");
 	}
 		public void AfterMethod() {
 			
