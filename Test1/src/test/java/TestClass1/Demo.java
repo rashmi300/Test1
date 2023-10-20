@@ -16,7 +16,7 @@ public class Demo {
 	
 	@BeforeTest
 	public void beforeTest() {
-	//	System.out.println("BeforeTest");
+	//	System.out.println("BeforeTestt");
 		
 	}
 	
