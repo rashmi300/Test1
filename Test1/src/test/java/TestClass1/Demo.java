@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeTest;
 public class Demo {
 	@BeforeSuite
 	public void beforeSuite() {
-		System.out.println("before suite");
+		System.out.println("before suitee");
 	}
 	
 	@BeforeTest
